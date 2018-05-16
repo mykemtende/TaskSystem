@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Management System
 
 Login:user: mtendemichael@gmail.com
@@ -23,4 +24,9 @@ modify the copied index.php file to point to the right directory of the vendor
 modify the .env file database details appropriately
 
 
+=======
+Task Management System
+
+Login: 
+>>>>>>> 695faad4e93124b67aae56ae5c2f04d86e00c2f1
 
